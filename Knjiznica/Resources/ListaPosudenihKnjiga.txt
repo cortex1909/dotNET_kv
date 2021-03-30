@@ -1,0 +1,26 @@
+   ***ID POSUDBE***   ***NAZIV KNJIGE***   ***NAZIV KORISNIKA***   ***DATUM POSUDBE***   ***DATUM VRACANJA***
+=> 35 | Head First SQL | Sandi Kovač | 26/06/2020 | 26/07/2020 <=
+=> 37 | Head First SQL | Ivan Marček | 26/06/2020 | 26/07/2020 <=
+=> 38 | Healthy SQL | Ivan Heđi | 26/06/2020 | 26/07/2020 <=
+=> 39 | Practical MongoDB | Slobodan Mamula | 26/06/2020 | 26/07/2020 <=
+=> 46 | SQL Queries for Mere Mortals, 4th Edition | Lea Fućkar | 02/07/2020 | 02/08/2020 <=
+=> 48 | SQL Queries for Mere Mortals, 4th Edition | Slobodan Mamula | 02/07/2020 | 02/08/2020 <=
+=> 49 | SQL Queries for Mere Mortals, 4th Edition | Valentino Špoljarić | 02/07/2020 | 02/08/2020 <=
+=> 52 | 2D Game Development: From Zero to Hero | Hrvoje Đaković | 15/07/2020 | 15/08/2020 <=
+=> 53 | Learning HTML5 Game Programming | Hrvoje Đaković | 15/07/2020 | 15/08/2020 <=
+=> 54 | iPhone Game Development | Oliver Jukić | 15/07/2020 | 15/08/2020 <=
+=> 55 | Windows Mobile Game Development | Slobodan Mamula | 15/07/2020 | 15/08/2020 <=
+=> 56 | Functional JavaScript | Hrvoje Đaković | 15/07/2020 | 15/08/2020 <=
+=> 57 | Functional JavaScript | Ivan Marček | 15/07/2020 | 15/08/2020 <=
+=> 58 | Scala Functional Programming Patterns | Sandi Kovač | 15/07/2020 | 15/08/2020 <=
+=> 60 | Hands-On Functional Programming in Rust | Ivan Heđi | 15/07/2020 | 15/08/2020 <=
+=> 61 | Hands-On Functional Programming in Rust | Oliver Jukić | 15/07/2020 | 15/08/2020 <=
+=> 62 | Unboxing Android USB | Sandi Kovač | 19/07/2020 | 19/08/2020 <=
+=> 64 | xUnit Test Patterns | Ivan Marček | 19/07/2020 | 19/08/2020 <=
+=> 66 | Functional Programming in C# | Oliver Jukić | 19/07/2020 | 19/08/2020 <=
+=> 67 | Hacking Exposed Wireless, 2nd Edition | Hrvoje Đaković | 19/07/2020 | 19/08/2020 <=
+=> 68 | Hacking Exposed Wireless, 2nd Edition | Ivan Marček | 19/07/2020 | 19/08/2020 <=
+=> 69 | Python Automation Cookbook | Valentino Špoljarić | 19/07/2020 | 19/08/2020 <=
+=> 70 | Python Automation Cookbook | Ivan Heđi | 19/07/2020 | 19/08/2020 <=
+=> 71 | Jump Start PHP | Hrvoje Đaković | 20/07/2020 | 20/08/2020 <=
+=> 72 | Jump Start PHP | Sandi Kovač | 20/07/2020 | 20/08/2020 <=
